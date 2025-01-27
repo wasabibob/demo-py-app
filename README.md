@@ -47,7 +47,8 @@ Install [docker](https://docs.docker.com/get-started/)
    
 ## Run
 
-Run the built image in docker on in your local environment from the terminal window or from docker desktop application.
+Run the built image in docker on in your local environment from the terminal window or from docker desktop application\
+Once running, you can see the app by opening a browser and browsing to **localhost:5500**
 
 ### In a terminal
 

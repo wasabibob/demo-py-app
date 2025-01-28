@@ -10,9 +10,9 @@ def test_version():
         print("Using Python 3.10 or newer.")
     else:
         print("Python version is older than 3.10.")
-    # Toggle comment the next line to force a test failure
     assert sys.version_info >= (3, 10)
-#    assert sys.version_info == (3, 10)
+    # Toggle comment the next line to force a test failure
+    assert sys.version_info == (3, 10)
 
 
 # Test the index route
